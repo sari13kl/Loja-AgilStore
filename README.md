@@ -15,13 +15,17 @@ Aplicação desenvolvida em Node.js para gerenciamento de produtos via terminal.
 ```bash
 git clone https://github.com/sari13kl/Loja-AgilStore
 ```
+2. **Clone o repositório:**
+```bash
+cd Loja-AgilStore
+```
 
-2. **Instale as dependências:**
+3. **Instale as dependências:**
 ```bash
 npm install
 ```
 
-3. **Execute a aplicação:**
+4. **Execute a aplicação:**
 ```bash
 npm start
 ```
