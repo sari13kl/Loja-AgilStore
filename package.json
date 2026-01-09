@@ -1,0 +1,19 @@
+{
+  "name": "loja-agilstore",
+  "version": "1.0.0",
+  "description": "Gerenciamento de Produtos para a Loja AgilStore",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
