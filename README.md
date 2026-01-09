@@ -28,10 +28,6 @@ npm start
 
 A aplicação será iniciada no terminal com um menu interativo para gerenciamento do estoque.
 
-### Modo desenvolvedor (auto-reload)
-
-```bash
-npm run dev
 
 ## Tecnologias utilizadas
 
