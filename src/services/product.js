@@ -1,4 +1,3 @@
-import { parse } from 'uuid';
 import { salvarEstoque } from '../repositories/estoquerepository.js';
 
 export const addProduto = (estoque,{nome, categoria, quantidade, preco}) => {
